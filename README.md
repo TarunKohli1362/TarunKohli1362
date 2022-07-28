@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<img src="https://github.com/TarunKohli1362/TarunKohli1362/blob/main/TARUN-SKYLINE.gif"></img>
 <!--
 **TarunKohli1362/TarunKohli1362** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
